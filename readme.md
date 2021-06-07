@@ -15,5 +15,7 @@ My name is marwan zakia i have a civil enginerring degree and I’m interested i
 | read 05     | [link](https://marwan-zakia.github.io/reading-note/read05.md)   |  
 | read 06 | [link](https://marwan-zakia.github.io/reading-note/read06.md)   |   
 | read06b      |[link](https://marwan-zakia.github.io/reading-note/read06b.md)          |
-|  growth mindset |[link](https://marwan-zakia.github.io/reading-note/Growthmindset.md)          | 
+|  growth mindset |[link](https://marwan-zakia.github.io/reading-note/Growthmindset.md)          |
+ |  201read01|[link](https://marwan-zakia.github.io/reading-note/201read01.md)          | 
+ 
  
