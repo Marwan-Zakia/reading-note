@@ -27,14 +27,5 @@ My name is marwan zakia i have a civil enginerring degree and I’m interested i
 | 201read09      |[link](https://marwan-zakia.github.io/reading-note/201read09.md)    |
 | 201read010      |[link](https://marwan-zakia.github.io/reading-note/201read10.md)    | 
 | 201read11      |[link](https://marwan-zakia.github.io/reading-note/201read11.md)    | 
-<<<<<<< HEAD
 | 201read12      |[link](https://marwan-zakia.github.io/reading-note/201read12.md)    | 
  
-
-
- 
-
-=======
- 
-
->>>>>>> f320ff622badead26e54760bea3c1770afd10d8d
