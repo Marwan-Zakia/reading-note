@@ -41,3 +41,4 @@ Email : marwanamir.ma@gmail.com
 | 301read09      |   [link](https://marwan-zakia.github.io/reading-note/301read09.md)   |
 | 301read10      |   [link](https://marwan-zakia.github.io/reading-note/301read10.md)   |
 | 301read11      |   [link](https://marwan-zakia.github.io/reading-note/301read11.md)   |
+| 301read12      |   [link](https://marwan-zakia.github.io/reading-note/301read12.md)   |
