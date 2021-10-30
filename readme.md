@@ -9,7 +9,6 @@ Email : marwanamir.ma@gmail.com
 | read name      |   links          |
 | -------------- | :-------------------------: |
 | Code 102    |  Intro to Software Development            |
-|
 | read 01        |    [link](https://marwan-zakia.github.io/reading-note/read01.md)     |
 | read 02        |    [link](https://marwan-zakia.github.io/reading-note/read02.md)     |
 | read 03        |    [link](https://marwan-zakia.github.io/reading-note/read03.md)     |
