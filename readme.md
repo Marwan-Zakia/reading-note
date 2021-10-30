@@ -6,8 +6,10 @@ An introduction about my self
 
 Email : marwanamir.ma@gmail.com
 
-| read name      |                                links                                 |
-| -------------- | :------------------------------------------------------------------: |
+| read name      |   links          |
+| -------------- | :-------------------------: |
+| Code 102    |  Intro to Software Development            |
+|
 | read 01        |    [link](https://marwan-zakia.github.io/reading-note/read01.md)     |
 | read 02        |    [link](https://marwan-zakia.github.io/reading-note/read02.md)     |
 | read 03        |    [link](https://marwan-zakia.github.io/reading-note/read03.md)     |
@@ -16,6 +18,7 @@ Email : marwanamir.ma@gmail.com
 | read 06        |    [link](https://marwan-zakia.github.io/reading-note/read06.md)     |
 | read06b        |    [link](https://marwan-zakia.github.io/reading-note/read06b.md)    |
 | growth mindset | [link](https://marwan-zakia.github.io/reading-note/Growthmindset.md) |
+| Code 201    |   Foundations of Software Development           |
 | 201read01      |   [link](https://marwan-zakia.github.io/reading-note/201read01.md)   |
 | 201read02      |   [link](https://marwan-zakia.github.io/reading-note/201read02.md)   |
 | 201read03      |   [link](https://marwan-zakia.github.io/reading-note/201read03.md)   |
@@ -31,6 +34,7 @@ Email : marwanamir.ma@gmail.com
 | 201read13      |   [link](https://marwan-zakia.github.io/reading-note/201read13.md)   |
 | 201read14      |   [link](https://marwan-zakia.github.io/reading-note/201read14.md)   |
 | 301read01      |   [link](https://marwan-zakia.github.io/reading-note/301read01.md)   |
+| Code 301    |   Intermediate Software Development          |
 | 301read02      |   [link](https://marwan-zakia.github.io/reading-note/301read02.md)   |
 | 301read03      |   [link](https://marwan-zakia.github.io/reading-note/301read03.md)   |
 | 301read04      |   [link](https://marwan-zakia.github.io/reading-note/301read04.md)   |
@@ -44,3 +48,6 @@ Email : marwanamir.ma@gmail.com
 | 301read12      |   [link](https://marwan-zakia.github.io/reading-note/301read12.md)   |
 | 301read13      |   [link](https://marwan-zakia.github.io/reading-note/301read13.md)   |
 | 301read14      |   [link](https://marwan-zakia.github.io/reading-note/301read14.md)   |
+| Code 401    |    Advanced Software Development         |
+| 401read      |   [link](https://marwan-zakia.github.io/reading-note/401read.md)   |
+| 401read01     |   [link](https://marwan-zakia.github.io/reading-note/401read01.md)   |
