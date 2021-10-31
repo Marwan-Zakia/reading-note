@@ -50,3 +50,4 @@ Email : marwanamir.ma@gmail.com
 | Code 401    |    Advanced Software Development         |
 | 401read      |   [link](https://marwan-zakia.github.io/reading-note/401read.md)   |
 | 401read01     |   [link](https://marwan-zakia.github.io/reading-note/401read01.md)   |
+| 401read02    |   [link](https://marwan-zakia.github.io/reading-note/401read02.md)   |
