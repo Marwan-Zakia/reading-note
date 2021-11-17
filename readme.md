@@ -49,12 +49,13 @@ Email : marwanamir.ma@gmail.com
 | 301read14      |   [link](https://marwan-zakia.github.io/reading-note/301read14.md)   |
 | Code 401    |    Advanced Software Development         |
 | 401read      |   [link](https://marwan-zakia.github.io/reading-note/401read.md)   |
-| 401read01     |   [link](https://marwan-zakia.github.io/reading-note/401read01.md)   |
-| 401read02    |   [link](https://marwan-zakia.github.io/reading-note/401read02.md)   |
-| 401read03    |   [link](https://marwan-zakia.github.io/reading-note/401read03.md)   |
-| 401read06    |   [link](https://marwan-zakia.github.io/reading-note/401read06.md)   |
-| 401read07    |   [link](https://marwan-zakia.github.io/reading-note/401read07.md)   |
+| 401read01     |   [link](https://marwan-zakia.github.io/reading-note/401read01.md)|
+| 401read02    |   [link](https://marwan-zakia.github.io/reading-note/401read02.md) |
+| 401read03    |   [link](https://marwan-zakia.github.io/reading-note/401read03.md) |
+| 401read06    |   [link](https://marwan-zakia.github.io/reading-note/401read06.md) |
+| 401read07    |   [link](https://marwan-zakia.github.io/reading-note/401read07.md) |
 | 401read08    |   [link](https://marwan-zakia.github.io/reading-note/401read08.md)   || 401read09    |   [link](https://marwan-zakia.github.io/reading-note/401read09.md)   |
 | 401read11    |   [link](https://marwan-zakia.github.io/reading-note/401read11.md)   |
 | 401read12    |   [link](https://marwan-zakia.github.io/reading-note/401read12.md)   |
 | 401read13    |   [link](https://marwan-zakia.github.io/reading-note/401read13.md)   |
+| 401read14    |   [link](https://marwan-zakia.github.io/reading-note/401read14.md)   |
