@@ -54,9 +54,12 @@ Email : marwanamir.ma@gmail.com
 | 401read03    |   [link](https://marwan-zakia.github.io/reading-note/401read03.md) |
 | 401read06    |   [link](https://marwan-zakia.github.io/reading-note/401read06.md) |
 | 401read07    |   [link](https://marwan-zakia.github.io/reading-note/401read07.md) |
-| 401read08    |   [link](https://marwan-zakia.github.io/reading-note/401read08.md)   || 401read09    |   [link](https://marwan-zakia.github.io/reading-note/401read09.md)   |
+| 401read08    |   [link](https://marwan-zakia.github.io/reading-note/401read08.md)   |
+| 401read09    |   [link](https://marwan-zakia.github.io/reading-note/401read09.md)   |
 | 401read11    |   [link](https://marwan-zakia.github.io/reading-note/401read11.md)   |
 | 401read12    |   [link](https://marwan-zakia.github.io/reading-note/401read12.md)   |
 | 401read13    |   [link](https://marwan-zakia.github.io/reading-note/401read13.md)   |
 | 401read14    |   [link](https://marwan-zakia.github.io/reading-note/401read14.md)   |
 | 401read16    |   [link](https://marwan-zakia.github.io/reading-note/401read16.md)   |
+| 401read17    |   [link](https://marwan-zakia.github.io/reading-note/401read17.md)   |
+| 401read18    |   [link](https://marwan-zakia.github.io/reading-note/401read18.md)   |
