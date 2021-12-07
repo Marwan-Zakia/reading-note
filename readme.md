@@ -66,3 +66,6 @@ Email : marwanamir.ma@gmail.com
 | 401read19   |   [link](https://marwan-zakia.github.io/reading-note/401read19.md)   |
 | 401read26    |   [link](https://marwan-zakia.github.io/reading-note/401read26.md)   |
 | 401read27   |   [link](https://marwan-zakia.github.io/reading-note/401read27.md)   |
+| 401read28   |   [link](https://marwan-zakia.github.io/reading-note/401read28.md)   |
+| 401read29   |   [link](https://marwan-zakia.github.io/reading-note/401read29.md)   |
+| 401read30   |   [link](https://marwan-zakia.github.io/reading-note/401read30.md)   |
